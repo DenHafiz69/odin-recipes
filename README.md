@@ -1,1 +1,1 @@
-Making a simple website to share recipe. It is the first project in TOP curriculum. 
+Making a simple website to share recipes. It is the first project in TOP curriculum. 
